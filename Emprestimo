@@ -1,3 +1,5 @@
 git add .
 git commit -m "adicionar estrutura do modulo inicial de emprestimos"
 git push -u origin feature/Emprestimo
+git add Emprestimos.html
+git commit -m "aprimorar campo de emprestimos com data e data de devolução"
